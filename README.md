@@ -48,8 +48,7 @@ OS Tested	     Windows, Linux
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/federated-cnc.git
-cd federated-cnc
+https://github.com/Shubham28-04/FedCNC
 
 2️⃣ Create and Activate Virtual Environment
 python -m venv venv
